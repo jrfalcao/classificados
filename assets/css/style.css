@@ -1,0 +1,12 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/10/2017, 17:12:59
+    Author     : Junior Falcão
+*/
+.login{background-color: #222222; min-width: 200px; float: left; position: absolute; right: 15px; padding: 15px; display: none}
+.login input{margin-bottom: 8px}
+.aviso_login{color: red; font-size: 12px; margin-left: 5px; display: none}
